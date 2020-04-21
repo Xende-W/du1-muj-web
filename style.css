@@ -1,0 +1,140 @@
+body{
+    margin: 0;
+    color: silver;
+    margin: 0 20% 0 20%;
+    background-image: url(Obrazky/metal\ scull.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    font-family: 'Poppins', sans-serif;
+}
+
+.hlavicka{
+    background-color: black;
+    padding: 0px 0px;
+    background-size: cover;
+    overflow: auto;
+    text-align: left;
+    border: 3px solid silver;
+}
+
+.citatprvni,
+.citatdruhy,
+.citattreti,
+.citatctvrty{
+    font-family: 'Cinzel Decorative', cursive; 
+}
+
+.menu {
+    border: 3px solid silver;
+    margin: 0;
+    background-color: black;
+   
+}
+
+li{
+    display: inline-block;
+    width: 16%;
+    height: 50px;
+    text-align: center;
+    margin-top: 15px;
+    
+}
+
+.menu a:link,
+.menu a:visited {
+    color: silver;
+    text-decoration: none;
+}
+
+.menu a:hover,
+.menu a:focus,
+.menu a:active {
+    background-color: white;
+    color: silver;
+    text-decoration: none;
+    
+}
+
+h1 {
+    color: white;   
+}
+
+h2 {
+    color: white
+}
+
+p .hlavicka {
+    color: silver;
+    
+}
+
+.foto-tereza {
+    width: 150px;
+    float: left;
+    border-radius: 20%;
+    border: 3px solid silver;
+    margin: 40px 40px 40px 40px;
+    
+}
+
+.logo-metal {
+    width: 300px;
+    float: right;
+}
+
+.logo {
+    width: 150px;
+    float: left;
+    margin: 40px;
+}
+
+.foto {
+    width: 400px;
+    float: right;
+    margin: 40px;
+    border: 1px solid silver;
+
+}
+
+div{
+    overflow: auto;
+    border: 3px solid silver;
+    background-color: black;
+      
+}
+
+p {
+    margin: 25px;
+    width: 650px;
+    text-align: justify;  
+}
+
+.paticka p {
+    width: 100%;
+}
+
+table{
+    font-weight: 200;
+    border-spacing: 0;
+    margin-bottom: 60px;
+    
+}
+
+td{
+    border-bottom: 1px solid silver;
+}
+
+.vpravo{
+    padding: 0 0 0 20px;
+    text-align: right;
+}
+
+.paticka{
+    height: 40px;
+    background-color: black;
+    padding: 30px;
+    background-size: cover;
+    overflow: auto;
+    text-align: center;
+    border: 3px solid silver;
+}
